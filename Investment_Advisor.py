@@ -13,7 +13,7 @@ while(True):
  access = gspread.authorize(account)
 
 #-------------------Opening Spreadsheets & getting Worksheets --------------------------------------
-
+ #Main_Excel Link : https://docs.google.com/spreadsheets/d/1QOSM6X-dxr14rVgb1jB3ApnguDPLzv64PYBMqBBkYVk/edit?usp=sharing
  Project = access.open_by_url('https://docs.google.com/spreadsheets/d/1QOSM6X-dxr14rVgb1jB3ApnguDPLzv64PYBMqBBkYVk/edit#gid=74779942')     # MAIN SPREADSHEET
  BSE500 = Project.get_worksheet(0)             # SHEET1
  IncomeExpense = Project.get_worksheet(1)      # SHEET2    // Headers should be unique (changes done)
