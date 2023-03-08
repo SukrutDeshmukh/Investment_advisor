@@ -298,12 +298,6 @@ while(True):
  Stock_Insights.update('B1',[sector_values.columns.values.tolist()])
  Stock_Insights.update('B2',sector_values.values.tolist())
 
-# 2)Try to find a relation between Dividend Per Share with Market Cap(Cr)
-# 3)Count the companies in different Industry with positive and negative 3-Year Return.
-
-
-
-
 # 3)For instance how many companies in Drugs & Pharma industry have positive 3-Year Return and how many have that negative. 
 # 3)Basis this, decide which industry would you recommend someone to invest if the same return is followed
  #-------------------------Data Cleaning --------------------------------
@@ -323,8 +317,7 @@ while(True):
  Negative=stockmarket[(stockmarket['3-Year Return']<0)][['Company','Industry']].groupby('Industry').count()
  Stock_Insights.update('D20',[["3 Year Return (-) Company"]]+Negative.values.tolist())
 
-# 4)Come up with any one KPI which can help define the best stock across different Sector, 
-# 4)you may need to learn a little bit of Finance for the same
+
 
 #-----------------------------Subtask_3 End-----------------------------
  time.sleep(10)
