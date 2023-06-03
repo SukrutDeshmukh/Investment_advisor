@@ -5,12 +5,12 @@ The project is primarily supported by two datasets.BSE500 data is included in on
 
 Steps involved in building project.\n
 
-Step 1 - Understanding the data which is present Gsheets. \n
-Step 2 - performing data cleaning using Gsheets tools.\n
-Step 3 - Linking Gsheet with python code with the help of Google cloud Api\n
-Step 4 - Using Gspread library for extracting details from sheets,cells and for uploading changes on sheets again after performing operations.\n
-Step 5 - Getting both the data sheets in python with the help gspread for performing further opeartions using pandas library.\n
-Step 6 - Creating four profiles for user and applying below conditions on the BSE500 data.\n
+Step 1 - Understanding the data which is present Gsheets.
+Step 2 - performing data cleaning using Gsheets tools.
+Step 3 - Linking Gsheet with python code with the help of Google cloud Api
+Step 4 - Using Gspread library for extracting details from sheets,cells and for uploading changes on sheets again after performing operations
+Step 5 - Getting both the data sheets in python with the help gspread for performing further opeartions using pandas library.
+Step 6 - Creating four profiles for user and applying below conditions on the BSE500 data.
 
 ![Uploading Screenshot (635).png…]()
 
