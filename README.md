@@ -22,4 +22,19 @@ Process :
 ![Screenshot (686)](https://github.com/SukrutDeshmukh/Investment_advisor/assets/127339353/a36e62a2-aba2-42e3-8a09-cbb23fd87018)
 
 
+Basic Statistics of user shown on sheet after calculating using Python:
+
+![Screenshot (687)](https://github.com/SukrutDeshmukh/Investment_advisor/assets/127339353/a93c4ff2-8070-49f7-b472-4e4f02c670a5)
+
+Profile Selection Dropdown:
+
+![Screenshot (690)](https://github.com/SukrutDeshmukh/Investment_advisor/assets/127339353/a0d3863e-b53a-47f0-8d73-9ed4efcf038c)
+
+Stocks Recommendation:
+
+![Screenshot (691)](https://github.com/SukrutDeshmukh/Investment_advisor/assets/127339353/5976181e-5d1f-495f-8fc9-ac0257dcec97)
+
+
+
+
 
