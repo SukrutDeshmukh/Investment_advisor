@@ -34,6 +34,7 @@ Stocks Recommendation:
 
 ![Screenshot (691)](https://github.com/SukrutDeshmukh/Investment_advisor/assets/127339353/5976181e-5d1f-495f-8fc9-ac0257dcec97)
 
+Project was been assigned in Masai Data Analytics Program.
 
 
 
