@@ -14,4 +14,12 @@ Step 6 - Creating four profiles for user and applying below conditions on the BS
 
 ![Screenshot (635)](https://github.com/SukrutDeshmukh/Investment_advisor/assets/127339353/0ffbbca4-3413-4466-9f09-7c0f54a8e72c)\
 
+Step 7 - Based on the user profile input applying specific conditions and returning stocks suggestions.
+Step 8 - Splitting the stock amount based on the available user account balance.
+
+Process : 
+
+![Screenshot (686)](https://github.com/SukrutDeshmukh/Investment_advisor/assets/127339353/a36e62a2-aba2-42e3-8a09-cbb23fd87018)
+
+
 
